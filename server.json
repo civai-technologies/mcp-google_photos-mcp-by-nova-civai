@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.civai.nova/mcp-google_photos",
+  "title": "Google Photos MCP by Nova (CIVAI)",
+  "description": "Sort, search and tidy your Google Photos from chat: find photos and videos, read their details, dow…",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://nova.civai.co/mcp/agents/mcp-google_photos"
+    }
+  ],
+  "websiteUrl": "https://nova.civai.co/agent/mcp-google_photos",
+  "icons": [
+    {
+      "src": "https://photos.google.com/favicon.ico"
+    }
+  ]
+}

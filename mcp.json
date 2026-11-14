@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-google-photos-by-nova": {
+      "url": "https://nova.civai.co/mcp/agents/mcp-google_photos",
+      "headers": {
+        "Authorization": "Bearer ${NOVA_API_KEY}"
+      }
+    }
+  }
+}

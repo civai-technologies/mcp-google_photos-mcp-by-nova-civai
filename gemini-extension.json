@@ -1,0 +1,13 @@
+{
+  "name": "mcp-google_photos",
+  "version": "1.0.0",
+  "description": "Sort, search and tidy your Google Photos from chat: find photos and videos, read their details, download them, and manage albums, favorites and archive.",
+  "mcpServers": {
+    "mcp-google-photos-by-nova": {
+      "httpUrl": "https://nova.civai.co/mcp/agents/mcp-google_photos",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
